@@ -43,6 +43,8 @@ MONGO_URI=your_mongodb_connection_uri
 ```bash
 python bot.py
 ```
+### Link to Deployed working Bot
+https://discord.com/oauth2/authorize?client_id=1354589074517786664&permissions=2419133504&integration_type=0&scope=bot+applications.commands
 
 ### 🛠 Future Development
 This project is still a work in progress — I plan to continue adding more functionality over time! Features like voice activity tracking, custom rank cards, daily rewards, and admin dashboards may be introduced in future updates. Feel free to fork, contribute, or suggest features if you’d like to be part of the journey!
